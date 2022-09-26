@@ -1,0 +1,6 @@
+.header {
+  padding:1em;
+  margin-bottom:1em;
+  background: skyblue;
+  display: flex;
+}
